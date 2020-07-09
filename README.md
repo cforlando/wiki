@@ -3,6 +3,6 @@
 
 
 ### You'll need to head over to the "Wiki" tab to access the wiki. 
-
+- Click [here](https://github.com/cforlando/wiki/wiki) and it will take you straight to the tab.
 
 Documented by Code for Orlando under the MIT liscense. Share and improve :heart: 
